@@ -1,0 +1,5 @@
+{
+  "name": "StoryStream",
+  "description": "A premier episodic e-book platform where authors publish serialized stories and readers enjoy content in a web-series format. Features real-time viewership tracking, content moderation, and interactive community tools.",
+  "requestFramePermissions": []
+}
